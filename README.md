@@ -108,11 +108,11 @@ My primary technologies include **Node.js, NestJS, TypeScript, PHP, and Laravel*
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" alt="Harsha's GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gohilharsh149&show_icons=true&hide_border=true&rank_icon=github" alt="Harsha's GitHub statistics" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" alt="GitHub contribution streak" />
+<img width="49%" src="https://streak-stats.demolab.com?user=gohilharsh149&hide_border=true" alt="GitHub contribution streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Most used programming languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gohilharsh149&layout=compact&hide_border=true" alt="Most used programming languages" />
 
 </div>
 
@@ -122,7 +122,7 @@ My primary technologies include **Node.js, NestJS, TypeScript, PHP, and Laravel*
 
 I'm interested in connecting with backend engineers, AI developers, startup founders, and teams building intelligent software products.
 
-- **GitHub:** [@YOUR_USERNAME](https://github.com/gohilharsh149)
+- **GitHub:** [@gohilharsh149](https://github.com/gohilharsh149)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/harsh-gohil-profile)
 - **Portfolio:** [Visit my portfolio](https://harshportfolio.eizumi.studio)
 - **Email:** gohilharsh149@gmail.com
