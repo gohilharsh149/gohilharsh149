@@ -102,21 +102,6 @@ My primary technologies include **Node.js, NestJS, TypeScript, PHP, and Laravel*
 - AI agents, tool calling, and workflow orchestration.
 - AI usage tracking, latency, and cost management.
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gohilharsh149&show_icons=true&hide_border=true&rank_icon=github" alt="Harsha's GitHub statistics" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=gohilharsh149&hide_border=true" alt="GitHub contribution streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gohilharsh149&layout=compact&hide_border=true" alt="Most used programming languages" />
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
