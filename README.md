@@ -80,7 +80,6 @@ My primary technologies include **Node.js, NestJS, TypeScript, PHP, and Laravel*
 - Real-time Communication
 - Backend System Architecture
 
----
 
 ## 🚀 What I Build
 
